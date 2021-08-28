@@ -1,0 +1,23 @@
+#container {
+    border: 2px solid black;
+    position: relative;
+    left: 30%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    width: 480px;
+    height: 480px;
+    justify-content: center;
+    align-items: center;
+}
+
+.checkboard {
+    background-color: grey;
+}
+
+.divActive {
+   background-color: orange;
+}
+
+
+
